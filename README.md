@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="  " width=250><br>
+<img src="demoTwitter2" width=250><br>
 
 
 **DemoTwitter** is a basic twitter app to read your tweets.
